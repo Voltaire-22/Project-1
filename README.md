@@ -15,6 +15,8 @@ Insights:
 - Data shows that in the year 2022 Amazon has downsized 10,150 employee then they have laid 8,000 employees for year 2023 which totalled to 18,150 employees across 2 years. However across these 2 years, they have raised a significant amount of funds which summed up to $324 million; $216M for year 2022 & $108M for year 2023.
 - While Amazon has topped  other tech giants company like Microsoft, Meta & Google who has downsized only for one year, Netflix has the most raised funds in Year 2022 with $487,600,000 which contributes 30% of its total market for all company in the span of 4 years
 
+**INDUSTRIES**
+
 # Who I think this Data is for:
 
 - **Human Resource and Talent Strategy:** Helps HR professionals anticipate risk and plan workforce resilience strategies.
