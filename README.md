@@ -13,6 +13,8 @@ Insights:
 
 **Total Laid off employees**: Data shows that in the span of 4 year (2020-2023) 383,159 employees has been laid off, with the highest year (2022) of laid off employees that reached 160,661 (41.81 %) of overall laid off employees. It increased by 34,984 (9.12 %) from year 2023, with the average of 95,789 across these past four years
 
+![alt text](https://github.com/Voltaire-22/Project-1/blob/main/PROJECT/5%20company%202020.png?raw=true) ![alt text](https://github.com/Voltaire-22/Project-1/blob/main/PROJECT/5%20company%202021.png?raw=true) ![alt text](https://github.com/Voltaire-22/Project-1/blob/main/PROJECT/5%20company%202022.png?raw=true) ![alt text](https://github.com/Voltaire-22/Project-1/blob/main/PROJECT/5%20company%202023.png?raw=true)
+
 **Trend Analysis**: Tech Giants (Google, Meta, Microsoft, Amazon)
 - Data shows that in the year 2022 Amazon has downsized 10,150 employee then they have laid 8,000 employees for year 2023 which totalled to 18,150 employees across 2 years. However across these 2 years, they have raised a significant amount of funds which summed up to $324 million; $216M for year 2022 & $108M for year 2023.
 - While Amazon has topped  other tech giants company like Microsoft, Meta & Google who has downsized only for one year, Netflix has the most raised funds in Year 2022 with $487,600,000 which contributes 30% of its total market for all company in the span of 4 years
