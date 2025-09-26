@@ -20,6 +20,7 @@ According to Statistica website, Google has a total of 664,537 employees from ye
 Source: https://www.statista.com/statistics/273744/number-of-full-time-google-employees/
 
 **2 MAJOR INDUSTRIES**
+
 MEDIA:
 - United States shows 7 out of 10 on the top 10 industries that has the highest raised funds, this shows that United States (US) is a major hub for funding especially in sectors like Media, Transportation, Consumer, Finance & Real Estate which are the 5 major contributor globally. This could possibly mean that due to fast growth of Technology/AI, Media is a heavy player that helps transform our economy in terms of relaying information to people.
 
