@@ -19,8 +19,12 @@ According to Statistica website, Google has a total of 664,537 employees from ye
 
 Source: https://www.statista.com/statistics/273744/number-of-full-time-google-employees/
 
-**INDUSTRIES**
-- Data shows that Media in United States contributes the largest funds raised $495,991M (30.97 %) across all of the countries in the span of 4 years.
+**2 MAJOR INDUSTRIES**
+MEDIA:
+- United States shows 7 out of 10 on the top 10 industries that has the highest raised funds, this shows that United States (US) is a major hub for funding especially in sectors like Media, Transportation, Consumer, Finance & Real Estate which are the 5 major contributor globally. This could possibly mean that due to fast growth of Technology/AI, Media is a heavy player that helps transform our economy in terms of relaying information to people.
+
+TRANSPORTATION:
+- With United States $158,946M (9.93%) and India $46,092M (2.88%) raised funds, this indicates that there is a strong interest in logisitics industry and could potentially bring a lot of investors globally
 
 # Who I think this Data is for:
 
