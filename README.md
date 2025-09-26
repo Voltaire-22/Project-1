@@ -25,6 +25,8 @@ Source: https://www.statista.com/statistics/273744/number-of-full-time-google-em
 
 **2 MAJOR INDUSTRIES FOR RAISED FUNDS**
 
+![alt text](https://github.com/Voltaire-22/Project-1/blob/main/PROJECT/10%20industries%20for%20funds.png?raw=true)
+
 MEDIA:
 - United States shows 7 out of 10 on the top 10 industries that has the highest raised funds, this shows that United States (US) is a major hub for funding especially in sectors like Media, Transportation, Consumer, Finance & Real Estate which are the 5 major contributor globally. This could possibly mean that due to fast growth of Technology/AI, Media is a heavy player that helps transform our economy in terms of relaying information to people.
 
