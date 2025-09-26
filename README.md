@@ -9,7 +9,7 @@ and other factors. This data will show overall number of laid off employees of v
 
 Insights:
 
-![alt text](image.jpg)
+![alt text]([image.jpg](https://github.com/Voltaire-22/Project-1/blob/394e78c0461348d6204e1801d90b418f55d86ef5/PROJECT/Overall%20laid%20off%20(4yrs).png))
 
 **Total Laid off employees**: Data shows that in the span of 4 year (2020-2023) 383,159 employees has been laid off, with the highest year (2022) of laid off employees that reached 160,661 (41.81 %) of overall laid off employees. It increased by 34,984 (9.12 %) from year 2023, with the average of 95,789 across these past four years
 
